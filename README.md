@@ -20,19 +20,19 @@
 * 匯整訂購人及訂單明細程式
 
 ```
-=sort(D3:E741,1,false)
+=sort(D3:E803,1,false)
 ```
 
 * 總單數結算行程式
 
 ```
-=countif(E3:E812,">0")
+=countif(E3:E803,">0")
 ```
 
 * 總訂購量結算行程式
 
 ```
-=sum(E3:E812)
+=sum(E3:E803)
 ```
 
 * 提案簡報：http://bit.ly/2JpRaJw
